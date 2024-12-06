@@ -2,7 +2,15 @@
 
 ###
 
-<h3 align="left">Aditya here! <br>I write code that compiles (most days) ✅, works (on a good day) 🚀, and adds a dash of fun to the chaos 😉.</h3>
+<h2 align="left"> 
+Aditya here! 😎
+</h2>
+
+<p>
+I write code that compiles (most days) ✅, works (on a good day) 🚀, and always adds a dash of fun to the chaos 😉.
+
+I breathe Spring 🍃, vibe with React ⚛️, and dive deep into AI/ML 🤖, computer vision 👀, and database design 📊. From crafting smart systems and optimizing queries to building intuitive web and mobile apps, I’m all about turning ideas into impactful solutions.
+</p>
 
 ###
 
