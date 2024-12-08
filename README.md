@@ -10,6 +10,9 @@ Aditya here! 😎
 I write code that compiles (most days) ✅, works (on a good day) 🚀, and always adds a dash of fun to the chaos 😉.
 
 I breathe Spring 🍃, vibe with React ⚛️, and dive deep into AI/ML 🤖, computer vision 👀, and database design 📊. From crafting smart systems and optimizing queries to building intuitive web and mobile apps, I’m all about turning ideas into impactful solutions.
+<div align="center">
+🕵️‍♂️ 🎮<a href = "https://adideo03.github.io/Game_Portfolio/dist/">Play my portfolio as a 2D game!! </a> 🎮 🕵️‍♂️
+</div>
 </p>
 
 ###
