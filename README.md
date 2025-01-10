@@ -18,7 +18,7 @@ I breathe Spring 🍃, vibe with React ⚛️, and dive deep into AI/ML 🤖, co
 ###
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif?cid=6c09b9521fjqsz6yb3hp9dxuju4riypuhncpxqqigjjl6p2j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="800" alt="Coding GIF">
+  <img src="https://media3.giphy.com/media/3pHrwP0Lg9t8NqiLWY/giphy.gif?cid=6c09b9521fjqsz6yb3hp9dxuju4riypuhncpxqqigjjl6p2j&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" alt="Coding GIF">
 </div>
 
 ###
